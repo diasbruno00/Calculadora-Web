@@ -1,0 +1,64 @@
+
+#numero1 {
+
+    text-align: center ;
+    border-radius: 5px;
+    margin-top:  10px;
+
+
+}
+
+#Titulo {
+    background-color: #83e22b;
+    width: 445px;
+    border-radius: 10px;
+    border-style: groove;
+
+}
+#numero2 {
+
+    text-align: center ;
+    border-radius: 5px;
+    margin-top:  10px;
+    
+
+}
+#principal{
+    background-color: rgb(223, 243, 228);
+    width: 450px;
+    height: 300px;
+    text-align: center;
+    border-radius: 20px;
+    position: absolute;
+    top: 50% ;
+    left: 50% ;
+    transform: translate(-50%, -50%);
+
+    
+}
+
+.button {
+ border-radius: 5px;
+ border-color: rgb(11, 4, 4);
+ background-color: rgb(24, 227, 119);
+ height: 30px;
+ margin-top: 20px; 
+margin-right: 20px;
+
+}
+
+#AcimaPrincipal{
+    background-color: rgb(170, 158, 158);
+    height: 80vh;
+    border-radius: 10px;
+    position: relative;
+    
+}
+#resultado {
+
+    background-color: #83e22b;
+    border-radius: 12px;
+    
+    
+}
+    
